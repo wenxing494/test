@@ -1,0 +1,81 @@
+header ul {float:left;
+    line-height:40px;
+    background-color: black;
+    width:100%;
+    
+}
+header ul li{float: left;
+    list-style: none;
+    padding-right:100px;
+
+    color: white;
+    font-size: 18px;
+}
+header{position: absolute;
+    top: 50;
+    float:left;
+    width: 95%;
+    height: 60;
+    
+}
+main{clear: both;
+    
+}
+.main-container{width:95%;
+    margin: 0 auto;
+    margin-top: 70px;
+    
+    
+}
+.right{float: right;
+    width: 30%;
+    height: 90%;
+    margin-top: 40px;
+    
+}
+.left{float: left;
+    width: 60%;
+    height: 90%;
+    margin-top: 40px;  
+}
+ 
+    
+table{background-color:#c9c9c9;
+    width: 900px;
+    height: 500px;
+        
+}
+
+.left table [src]{
+    width: 210px;
+}
+.left table p{
+    text-align: center;
+    margin: 0;
+}
+main .left .dau p{
+    border-left: 2px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 5px;
+    font-size: 20px;
+}
+main .right .g1 p{
+    border-bottom: dotted;
+    font-size: 20px;
+}
+main .right .g2 p{
+    border-bottom: dotted;
+    font-size: 20px;
+}
+main .right .g3 p{
+    border-bottom: dotted;
+    font-size: 20px;
+}
+footer .foot{clear:left;
+    color:white;
+    background-color: black;
+    text-align: center;
+    float: left;
+    line-height: 60px;
+    width: 100%;
+    margin-top: 15px;
